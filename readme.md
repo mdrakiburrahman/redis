@@ -18,3 +18,7 @@
 
 You will need to type `yes` to accept the cluster configuration
 
+## Live Demo
+
+[![Redis Cluster with 3 shards & 3 replicas in 10 minutes
+](http://i3.ytimg.com/vi/ScsWSeJoq2E/maxresdefault.jpg)](https://youtu.be/ScsWSeJoq2E)
